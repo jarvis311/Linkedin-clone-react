@@ -1,0 +1,20 @@
+  // const handleRegister = () => {
+  //   if (!name) {
+  //     alert("enter name")
+
+  //   }
+  //     auth.createUserWithEmailAndPassword(email, password).then(userAuth => {
+  //       userAuth.user.updateProfile({
+  //         displayName: name,
+  //         photoURL: profileUrl
+  //       }).then(() => {
+  //         dispatch(login({
+  //           email: userAuth.user.email,
+  //           displayName: name,
+  //           uid: userAuth.user.uid,
+  //           photoUrl: profileUrl
+  //         }))
+  //       })
+  //     }).catch(error => alert(error))
+    
+  // }
